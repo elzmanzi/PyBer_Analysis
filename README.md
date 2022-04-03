@@ -8,7 +8,7 @@ average fare per ride, average fare per drive for each city type.
 
 ## Results:
 
-![Totals by City type]()
+![Totals by City type](https://github.com/elzmanzi/PyBer_Analysis/blob/main/analysis/PyBer_totals_summary.png)
 
 - comparing the totals, Urban has the lowest average fair per ride and per driver but it has highest total fares comparing to the rest. 
 Urban city type has also the highest number of drivers, 
